@@ -1,0 +1,49 @@
+
+------Information Sur le User :--------    
+ 
+Cin :44 
+Nom :ff 
+Prenom :f 
+mot de passe :f 
+sexe :Monsieur 
+jour :-2051851272 
+mois :-2051851268 
+annee :-2051851264 
+Cin :francais 
+Nom :Technicien 
+------Information Sur le User :--------    
+ 
+Cin :1234 
+Nom :asma 
+Prenom :troudi 
+mot de passe :bebebebeb 
+sexe :Madame 
+jour :9 
+mois :6 
+annee :100 
+Cin :anglais 
+Nom :Nutritionniste 
+------Information Sur le User :--------    
+ 
+Cin :1234 
+Nom :samar 
+Prenom :swisi 
+mot de passe :samarswisi 
+sexe :Madame 
+jour :19 
+mois :12 
+annee :95 
+Cin :anglais 
+Nom :Stockage 
+------Information Sur le User :--------    
+ 
+Cin :111111 
+Nom :mohamadov 
+Prenom :vvvvv 
+mot de passe :vvvvvvvvvv 
+sexe :Monsieur 
+jour :7 
+mois :6 
+annee :100 
+Cin :arabe 
+Nom :Nutritionniste 
